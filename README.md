@@ -18,10 +18,10 @@ type-config init
 
 *TypeConfig* provide following receipes (Addition is welcome):
 
-* *standard*: Can be use in most projects. Use most type check rules, but not anything more(like no used something).
-* *strict*: Fit for packages. Use the most strict rules.
-* *react*: Fit for app using react.
-* *easy*: Fit for new starter or old javascript projects. Use the most loose rules, allow using javascript.
+* **standard**: Can be use in most projects. Use most type check rules, but not anything more(like no used something).
+* **strict**: Fit for packages. Use the most strict rules.
+* **react**: Fit for app using react.
+* **easy**: Fit for new starter or old javascript projects. Use the most loose rules, allow using javascript.
 
 ### CLI usage:
 ```
