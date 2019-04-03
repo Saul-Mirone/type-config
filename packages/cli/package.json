@@ -1,0 +1,19 @@
+{
+  "name": "@type-config/cli",
+  "version": "1.0.1",
+  "description": "The cli for type-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "type-config": "./index.js"
+  },
+  "author": "mirone",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "cross-spawn": "^6.0.5",
+    "inquirer": "^6.2.2"
+  }
+}

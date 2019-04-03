@@ -1,0 +1,11 @@
+{
+  "name": "@type-config/strict",
+  "version": "1.0.1",
+  "description": "",
+  "tsconfig": "./tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mirone",
+  "license": "MIT"
+}
