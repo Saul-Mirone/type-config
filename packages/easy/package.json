@@ -1,11 +1,24 @@
 {
   "name": "@type-config/easy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "tsconfig": "./tsconfig.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saul-Mirone/type-config.git",
+    "directory": "packages/easy"
+  },
+  "keywords": [
+    "TypeScript",
+    "compiler",
+    "config",
+    "tsconfig",
+    "json"
+  ],
+  "homepage": "https://github.com/Saul-Mirone/type-config",
   "author": "mirone",
   "license": "MIT"
 }

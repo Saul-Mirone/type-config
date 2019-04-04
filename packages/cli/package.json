@@ -1,6 +1,6 @@
 {
   "name": "@type-config/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The cli for type-cli",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,19 @@
   "bin": {
     "type-config": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saul-Mirone/type-config.git",
+    "directory": "packages/cli"
+  },
+  "keywords": [
+    "TypeScript",
+    "compiler",
+    "config",
+    "tsconfig",
+    "json"
+  ],
+  "homepage": "https://github.com/Saul-Mirone/type-config",
   "author": "mirone",
   "license": "MIT",
   "dependencies": {
