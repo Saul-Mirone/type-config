@@ -1,2 +1,7 @@
-**/node_modules
-**/package-lock.json
+node_modules
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions

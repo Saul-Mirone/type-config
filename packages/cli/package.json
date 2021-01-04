@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "The cli for type-cli",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
     "type-config": "./index.js"
   },

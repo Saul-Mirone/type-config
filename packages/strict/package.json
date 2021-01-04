@@ -3,9 +3,6 @@
   "version": "1.0.2",
   "description": "",
   "tsconfig": "./tsconfig.json",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Saul-Mirone/type-config.git",
