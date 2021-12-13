@@ -3740,7 +3740,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lerna@npm:^3.22.1":
+"lerna@npm:3.22.1":
   version: 3.22.1
   resolution: "lerna@npm:3.22.1"
   dependencies:
@@ -6218,7 +6218,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "type-config@workspace:."
   dependencies:
-    lerna: ^3.22.1
+    lerna: 3.22.1
   languageName: unknown
   linkType: soft
 
