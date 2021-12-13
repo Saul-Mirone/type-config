@@ -1239,7 +1239,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./packages/cli/",
           "packageDependencies": [
             ["@type-config/cli", "workspace:packages/cli"],
-            ["commander", "npm:2.20.3"],
+            ["commander", "npm:8.3.0"],
             ["cross-spawn", "npm:6.0.5"],
             ["inquirer", "npm:6.5.2"]
           ],
@@ -2110,10 +2110,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["commander", [
-        ["npm:2.20.3", {
-          "packageLocation": "./.yarn/cache/commander-npm-2.20.3-d8dcbaa39b-b73428e97d.zip/node_modules/commander/",
+        ["npm:8.3.0", {
+          "packageLocation": "./.yarn/cache/commander-npm-8.3.0-c0d18c66d5-0b818d97ca.zip/node_modules/commander/",
           "packageDependencies": [
-            ["commander", "npm:2.20.3"]
+            ["commander", "npm:8.3.0"]
           ],
           "linkType": "HARD",
         }]
