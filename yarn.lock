@@ -6,29 +6,29 @@ __metadata:
   cacheKey: 7
 
 "@babel/code-frame@npm:^7.0.0":
-  version: 7.16.0
-  resolution: "@babel/code-frame@npm:7.16.0"
+  version: 7.16.7
+  resolution: "@babel/code-frame@npm:7.16.7"
   dependencies:
-    "@babel/highlight": ^7.16.0
-  checksum: 68f2008dcf74807f9202d1962b6a848466bde608dc7e07640c9ddf561d7dfea05032e0f4f758ba389288c1812f4d2d56533c2b31869278b1101a044198335944
+    "@babel/highlight": ^7.16.7
+  checksum: 79eb7c3207b05c19927e45dd1cc179a3bac1bfa31cfde1708f7acc78cad5993a28837bd9abdad08fddb9ff757dd183dccb7c7fc1af8a0c2a38570b9a5c38400b
   languageName: node
   linkType: hard
 
-"@babel/helper-validator-identifier@npm:^7.15.7":
-  version: 7.15.7
-  resolution: "@babel/helper-validator-identifier@npm:7.15.7"
-  checksum: eb3eaea69de1e69c0c74e15b3934aa844b248d3bda6d5fa97f8c46fc16eada6153d2f519379ec3801b794bb5b72a88e087a18bbe6682cd72ce0c7a69144f2f7a
+"@babel/helper-validator-identifier@npm:^7.16.7":
+  version: 7.16.7
+  resolution: "@babel/helper-validator-identifier@npm:7.16.7"
+  checksum: 43b4b4b721c8a9c0b9bb62f85c9bde572eb0cffc80e3b615a9018e38d7f878db047f754fb342642e4e8abbb42026c37d32c5e077a3289ee2b9a4b91a8f6b014b
   languageName: node
   linkType: hard
 
-"@babel/highlight@npm:^7.16.0":
-  version: 7.16.0
-  resolution: "@babel/highlight@npm:7.16.0"
+"@babel/highlight@npm:^7.16.7":
+  version: 7.16.7
+  resolution: "@babel/highlight@npm:7.16.7"
   dependencies:
-    "@babel/helper-validator-identifier": ^7.15.7
+    "@babel/helper-validator-identifier": ^7.16.7
     chalk: ^2.0.0
     js-tokens: ^4.0.0
-  checksum: 25bbf22feeb5a4e7a395a9f5206683681273acba3eb1ccba03bd5780dbe4847f47465e549715b37384638b92a7fba70cb025aeefabff171ae6e9afe825647345
+  checksum: fa1ee4f97fafd3103fcc57fbd1c0f7d4d3230e56f24f71cc34773a258197d02647c8f0af2616c98fa57947715701c489b06a8655d03e106012ac7d4fdf280f2b
   languageName: node
   linkType: hard
 
@@ -1190,13 +1190,13 @@ __metadata:
   linkType: hard
 
 "agentkeepalive@npm:^4.1.3":
-  version: 4.1.4
-  resolution: "agentkeepalive@npm:4.1.4"
+  version: 4.2.0
+  resolution: "agentkeepalive@npm:4.2.0"
   dependencies:
     debug: ^4.1.0
     depd: ^1.1.2
     humanize-ms: ^1.2.1
-  checksum: c58f69d05ccf3943e70d458d0dfceacc0f85749743573f843075ec93948302801e7ef43436f6c70d0ed2d12f70f1b6c061eac5a3018513f850b839533dbcef0e
+  checksum: 3f952b20170cd9918445cd7b834bfd3ecadf86b3e1ee0f87c7b74ccd2c567c91ad63471bcd8581b02ee45665b67b647f1be40e8fee00910c962bb4b7f169b6d4
   languageName: node
   linkType: hard
 
@@ -1807,12 +1807,12 @@ __metadata:
   linkType: hard
 
 "conventional-changelog-writer@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "conventional-changelog-writer@npm:5.0.0"
+  version: 5.0.1
+  resolution: "conventional-changelog-writer@npm:5.0.1"
   dependencies:
     conventional-commits-filter: ^2.0.7
     dateformat: ^3.0.0
-    handlebars: ^4.7.6
+    handlebars: ^4.7.7
     json-stringify-safe: ^5.0.1
     lodash: ^4.17.15
     meow: ^8.0.0
@@ -1821,7 +1821,7 @@ __metadata:
     through2: ^4.0.0
   bin:
     conventional-changelog-writer: cli.js
-  checksum: fd6ff15b9e0b1619b76193e70c7a109a627dad1a59bd011705640fd28aeb4dc593b5057e34cd8139d4f5d48265539bae1c2662373cc9714e0273944fcaeb6ee3
+  checksum: 68c7ceaa03276c5c8aec9b9f6d490ce5eb968de0904cfff731e717e02729df5553115cf66d76f326ffd9c51b0cd2a16625f8ba83bad82d4a03c7fb3ad4995170
   languageName: node
   linkType: hard
 
@@ -1836,8 +1836,8 @@ __metadata:
   linkType: hard
 
 "conventional-commits-parser@npm:^3.2.0":
-  version: 3.2.3
-  resolution: "conventional-commits-parser@npm:3.2.3"
+  version: 3.2.4
+  resolution: "conventional-commits-parser@npm:3.2.4"
   dependencies:
     JSONStream: ^1.0.4
     is-text-path: ^1.0.1
@@ -1847,7 +1847,7 @@ __metadata:
     through2: ^4.0.0
   bin:
     conventional-commits-parser: cli.js
-  checksum: 07ac0ff0d11c1d44f772dc825e9232f8ee06e9f665115fa6ce7b1eb0802c76e0107fbcb8c5671679fabace7d2d7af8cd2f1c01c66bcde064eaee1f790e8df0b9
+  checksum: f3fe9cacdbd6f93030bf96847b45d2529e2db3fd91ee5df5065dafc02fd0e7c58e757104f0d7ac954ebb259782fdd3ab8f98bc8f20929d3b48bca53710013d8f
   languageName: node
   linkType: hard
 
@@ -2475,8 +2475,8 @@ __metadata:
   linkType: hard
 
 "git-raw-commits@npm:^2.0.8":
-  version: 2.0.10
-  resolution: "git-raw-commits@npm:2.0.10"
+  version: 2.0.11
+  resolution: "git-raw-commits@npm:2.0.11"
   dependencies:
     dargs: ^7.0.0
     lodash: ^4.17.15
@@ -2485,7 +2485,7 @@ __metadata:
     through2: ^4.0.0
   bin:
     git-raw-commits: cli.js
-  checksum: 8c8769db98108a40c978c028680e798499b3aa0a560ac2fc02544aa75c8541fc07fb92cffd8041b7ed68e06db1041c2ada33c3d6ba2f520328813ebe741521ea
+  checksum: e3e3298a9a25caf0eea4a6e5e046743632c0a80e7b9ea323245eb553f15beddb62d33b254dfa5bf3bf805269e0b778155a539e61125ed6213f0a1c49ba54e687
   languageName: node
   linkType: hard
 
@@ -2583,7 +2583,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"handlebars@npm:^4.7.6":
+"handlebars@npm:^4.7.7":
   version: 4.7.7
   resolution: "handlebars@npm:4.7.7"
   dependencies:
@@ -4435,9 +4435,9 @@ __metadata:
   linkType: hard
 
 "picomatch@npm:^2.2.3":
-  version: 2.3.0
-  resolution: "picomatch@npm:2.3.0"
-  checksum: 80113a0fb70cfa62730d5aa3fd3d45b76bf3985f8494080ab2de1cc1fa3ba96d77990c7553a81401e16c51c0eb19c27cf5bc94f2196155090f26c8a167968001
+  version: 2.3.1
+  resolution: "picomatch@npm:2.3.1"
+  checksum: 5e3bbbf6a7356e1f029754112803187564a81768718393782d73b8be2c7b2055316ed200e7ca989fae7a794348afbc17da93fa760930bcbfa4ab2c8abb781587
   languageName: node
   linkType: hard
 
@@ -4903,11 +4903,11 @@ resolve@^1.10.0:
   linkType: hard
 
 "rxjs@npm:^7.2.0":
-  version: 7.4.0
-  resolution: "rxjs@npm:7.4.0"
+  version: 7.5.1
+  resolution: "rxjs@npm:7.5.1"
   dependencies:
-    tslib: ~2.1.0
-  checksum: e58ecc0496ba710fcf00238f1fd44968f7133e87a0a43c244e508494425c188f20078905fa397c427d270cc6496b62d07de7bb3252d71c93d62d13cdc958b577
+    tslib: ^2.1.0
+  checksum: da9dd86e21b027ffd57f0bff6a03a4c43fa5b45529690f24495ea7f304422df3b427d147c8a4cf193ba4a4465248f3d6c48df810eb0a7414cdbe64b11b6bd115
   languageName: node
   linkType: hard
 
@@ -5464,10 +5464,10 @@ resolve@^1.10.0:
   languageName: node
   linkType: hard
 
-"tslib@npm:~2.1.0":
-  version: 2.1.0
-  resolution: "tslib@npm:2.1.0"
-  checksum: d8f5bdd067611651c6b846c2388f4dc8ba1f5af124e66105f5263d1ad56da17f4b8c6566887ca2f205c5a9758451871ceca87d5d06087af2dca1699c5e33db69
+"tslib@npm:^2.1.0":
+  version: 2.3.1
+  resolution: "tslib@npm:2.3.1"
+  checksum: 5ae2f209c5127bad284974c78916f02c72082615f65889a7ed0c7ca6d5f935c30338a0ee7310e1d9652dabc7b7507fd2905035487446d09d45fc1f19de71cf05
   languageName: node
   linkType: hard
 
