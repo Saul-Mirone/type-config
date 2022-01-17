@@ -2259,15 +2259,15 @@ __metadata:
   linkType: hard
 
 "fast-glob@npm:^3.2.9":
-  version: 3.2.10
-  resolution: "fast-glob@npm:3.2.10"
+  version: 3.2.11
+  resolution: "fast-glob@npm:3.2.11"
   dependencies:
     "@nodelib/fs.stat": ^2.0.2
     "@nodelib/fs.walk": ^1.2.3
     glob-parent: ^5.1.2
     merge2: ^1.3.0
     micromatch: ^4.0.4
-  checksum: 60c1c66df2f96504fda1906919a792ee40d0f1cec65fdb3119ad5fe6846c2c777529a5620227c556181607678dcea9004ab7f68ace416e13d91fcb1795ab009f
+  checksum: f06bb7a3acee26509f61b142eae51816b9b98145f1fc9645ee194acbfe7ef9f1f6472da3b3b0e7b9cf55951cb91f7f47c4ffc9725883a07c1e64e351211848db
   languageName: node
   linkType: hard
 
@@ -3828,11 +3828,16 @@ __metadata:
   linkType: hard
 
 "node-fetch@npm:^2.6.1":
-  version: 2.6.6
-  resolution: "node-fetch@npm:2.6.6"
+  version: 2.6.7
+  resolution: "node-fetch@npm:2.6.7"
   dependencies:
     whatwg-url: ^5.0.0
-  checksum: c0a4450cca0568be1e75911a850758f7b78b0687b720cdb337f9729ceaa7af76d37b637472893e11d3cee8dfa7916d94aeb0a64f96b597234c2e1a8717eb4be9
+  peerDependencies:
+    encoding: ^0.1.0
+  peerDependenciesMeta:
+    encoding:
+      optional: true
+  checksum: 9eef3f9934c690719ece12c1a7e97109bbdbb90a63bbcca57da93a7ee1aa03723ee3d2fffbbea937d7c1ec6e2ba9beb659ab232a9ae6acc42f1a646e0284c136
   languageName: node
   linkType: hard
 
@@ -4547,18 +4552,18 @@ __metadata:
   linkType: hard
 
 "qs@npm:^6.9.4":
-  version: 6.10.2
-  resolution: "qs@npm:6.10.2"
+  version: 6.10.3
+  resolution: "qs@npm:6.10.3"
   dependencies:
     side-channel: ^1.0.4
-  checksum: 379cef374aa25563b78ef6ee65f97a9c3ea0822d243161bea3baf4ed5020b67bdcc077d3918d195bf2f28fa91e7b2bd0da18aa31472c505c43153e4f01b003c8
+  checksum: 8428e7246f1cb17b6c05ca9d394ca5149926613409dafab943c7de2393efe5564944d2c8af73508a6dd825b1f9efb036053bed0f73dade26e1d44cfb465ee768
   languageName: node
   linkType: hard
 
 "qs@npm:~6.5.2":
-  version: 6.5.2
-  resolution: "qs@npm:6.5.2"
-  checksum: fa0410eff2c05ce3328e11f82db4015e7819c986ee056d6b62b06ae112f4929af09ea3b879ca168ff9f0338f50972bba487ad0e46c879e42bfaf63c3c2ea7f09
+  version: 6.5.3
+  resolution: "qs@npm:6.5.3"
+  checksum: 2e9f69a9dbd57c14b5da27f430ece3ec0d500faf2d3ca516d19b530e4471647d8f6c4e75a3984361861549aea487f438b7f8e80628f10468fb7431e8d22558c6
   languageName: node
   linkType: hard
 
@@ -4909,11 +4914,11 @@ resolve@^1.10.0:
   linkType: hard
 
 "rxjs@npm:^7.2.0":
-  version: 7.5.1
-  resolution: "rxjs@npm:7.5.1"
+  version: 7.5.2
+  resolution: "rxjs@npm:7.5.2"
   dependencies:
     tslib: ^2.1.0
-  checksum: da9dd86e21b027ffd57f0bff6a03a4c43fa5b45529690f24495ea7f304422df3b427d147c8a4cf193ba4a4465248f3d6c48df810eb0a7414cdbe64b11b6bd115
+  checksum: aee1fd261de2ddfa8603891b02d0384dc0b4ca2d0ab3a0ef3627c77076ecddfc3602b36c1413f306bc81cee8eb3e24cdda7450100da03540fe47ac073b554bb2
   languageName: node
   linkType: hard
 
