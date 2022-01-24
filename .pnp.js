@@ -72,7 +72,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@babel-code-frame-npm-7.16.7-093eb9e124-79eb7c3207.zip/node_modules/@babel/code-frame/",
           "packageDependencies": [
             ["@babel/code-frame", "npm:7.16.7"],
-            ["@babel/highlight", "npm:7.16.7"]
+            ["@babel/highlight", "npm:7.16.10"]
           ],
           "linkType": "HARD",
         }]
@@ -87,10 +87,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@babel/highlight", [
-        ["npm:7.16.7", {
-          "packageLocation": "./.yarn/cache/@babel-highlight-npm-7.16.7-c36734cd1b-fa1ee4f97f.zip/node_modules/@babel/highlight/",
+        ["npm:7.16.10", {
+          "packageLocation": "./.yarn/cache/@babel-highlight-npm-7.16.10-626c03326c-0ceb2a16ca.zip/node_modules/@babel/highlight/",
           "packageDependencies": [
-            ["@babel/highlight", "npm:7.16.7"],
+            ["@babel/highlight", "npm:7.16.10"],
             ["@babel/helper-validator-identifier", "npm:7.16.7"],
             ["chalk", "npm:2.4.2"],
             ["js-tokens", "npm:4.0.0"]
@@ -443,7 +443,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@lerna-gitlab-client-npm-4.0.0-42411bcb51-02ebd838e9.zip/node_modules/@lerna/gitlab-client/",
           "packageDependencies": [
             ["@lerna/gitlab-client", "npm:4.0.0"],
-            ["node-fetch", "virtual:2a9866bd0596b62a7d1d4db120ce9fc3262a929900595a43070a20119a37b94ee959a75101ffc240d3b7c9ee90f97d685fa432a87d3d4e198c67d037aa779ef4#npm:2.6.7"],
+            ["node-fetch", "virtual:25a5f5382d53dbf298bf7a1191760bc2e0a523a619eeb0e667b99a8649e8ad183f9e2e0b45f6fb831b92f4078b61622aa567cf79565f6aa5af9597e3c84864f6#npm:2.6.7"],
             ["npmlog", "npm:4.1.2"],
             ["whatwg-url", "npm:8.7.0"]
           ],
@@ -1105,7 +1105,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@octokit/core", "npm:3.5.1"],
             ["@octokit/auth-token", "npm:2.5.0"],
             ["@octokit/graphql", "npm:4.8.0"],
-            ["@octokit/request", "npm:5.6.2"],
+            ["@octokit/request", "npm:5.6.3"],
             ["@octokit/request-error", "npm:2.1.0"],
             ["@octokit/types", "npm:6.34.0"],
             ["before-after-hook", "npm:2.2.2"],
@@ -1131,7 +1131,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/@octokit-graphql-npm-4.8.0-83d118b4da-8ff5cba1b6.zip/node_modules/@octokit/graphql/",
           "packageDependencies": [
             ["@octokit/graphql", "npm:4.8.0"],
-            ["@octokit/request", "npm:5.6.2"],
+            ["@octokit/request", "npm:5.6.3"],
             ["@octokit/types", "npm:6.34.0"],
             ["universal-user-agent", "npm:6.0.0"]
           ],
@@ -1226,15 +1226,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@octokit/request", [
-        ["npm:5.6.2", {
-          "packageLocation": "./.yarn/cache/@octokit-request-npm-5.6.2-2a9866bd05-f3d45f4922.zip/node_modules/@octokit/request/",
+        ["npm:5.6.3", {
+          "packageLocation": "./.yarn/cache/@octokit-request-npm-5.6.3-25a5f5382d-d57fad7948.zip/node_modules/@octokit/request/",
           "packageDependencies": [
-            ["@octokit/request", "npm:5.6.2"],
+            ["@octokit/request", "npm:5.6.3"],
             ["@octokit/endpoint", "npm:6.0.12"],
             ["@octokit/request-error", "npm:2.1.0"],
             ["@octokit/types", "npm:6.34.0"],
             ["is-plain-object", "npm:5.0.0"],
-            ["node-fetch", "virtual:2a9866bd0596b62a7d1d4db120ce9fc3262a929900595a43070a20119a37b94ee959a75101ffc240d3b7c9ee90f97d685fa432a87d3d4e198c67d037aa779ef4#npm:2.6.7"],
+            ["node-fetch", "virtual:25a5f5382d53dbf298bf7a1191760bc2e0a523a619eeb0e667b99a8649e8ad183f9e2e0b45f6fb831b92f4078b61622aa567cf79565f6aa5af9597e3c84864f6#npm:2.6.7"],
             ["universal-user-agent", "npm:6.0.0"]
           ],
           "linkType": "HARD",
@@ -4048,7 +4048,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minipass-fetch", "npm:1.4.1"],
             ["minipass-flush", "npm:1.0.5"],
             ["minipass-pipeline", "npm:1.2.4"],
-            ["negotiator", "npm:0.6.2"],
+            ["negotiator", "npm:0.6.3"],
             ["promise-retry", "npm:2.0.1"],
             ["socks-proxy-agent", "npm:6.1.1"],
             ["ssri", "npm:8.0.1"]
@@ -4369,10 +4369,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["negotiator", [
-        ["npm:0.6.2", {
-          "packageLocation": "./.yarn/cache/negotiator-npm-0.6.2-ba538e167a-4b230bd15f.zip/node_modules/negotiator/",
+        ["npm:0.6.3", {
+          "packageLocation": "./.yarn/cache/negotiator-npm-0.6.3-9d50e36171-5899e1bf5c.zip/node_modules/negotiator/",
           "packageDependencies": [
-            ["negotiator", "npm:0.6.2"]
+            ["negotiator", "npm:0.6.3"]
           ],
           "linkType": "HARD",
         }]
@@ -4394,10 +4394,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:2a9866bd0596b62a7d1d4db120ce9fc3262a929900595a43070a20119a37b94ee959a75101ffc240d3b7c9ee90f97d685fa432a87d3d4e198c67d037aa779ef4#npm:2.6.7", {
-          "packageLocation": "./.yarn/$$virtual/node-fetch-virtual-b46633ff5f/0/cache/node-fetch-npm-2.6.7-777aa2a6df-9eef3f9934.zip/node_modules/node-fetch/",
+        ["virtual:25a5f5382d53dbf298bf7a1191760bc2e0a523a619eeb0e667b99a8649e8ad183f9e2e0b45f6fb831b92f4078b61622aa567cf79565f6aa5af9597e3c84864f6#npm:2.6.7", {
+          "packageLocation": "./.yarn/$$virtual/node-fetch-virtual-d3846f8e12/0/cache/node-fetch-npm-2.6.7-777aa2a6df-9eef3f9934.zip/node_modules/node-fetch/",
           "packageDependencies": [
-            ["node-fetch", "virtual:2a9866bd0596b62a7d1d4db120ce9fc3262a929900595a43070a20119a37b94ee959a75101ffc240d3b7c9ee90f97d685fa432a87d3d4e198c67d037aa779ef4#npm:2.6.7"],
+            ["node-fetch", "virtual:25a5f5382d53dbf298bf7a1191760bc2e0a523a619eeb0e667b99a8649e8ad183f9e2e0b45f6fb831b92f4078b61622aa567cf79565f6aa5af9597e3c84864f6#npm:2.6.7"],
             ["@types/encoding", null],
             ["encoding", null],
             ["whatwg-url", "npm:5.0.0"]
@@ -4471,7 +4471,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["normalize-package-data", "npm:2.5.0"],
             ["hosted-git-info", "npm:2.8.9"],
-            ["resolve", "patch:resolve@npm%3A1.21.0#builtin<compat/resolve>::version=1.21.0&hash=3388aa"],
+            ["resolve", "patch:resolve@npm%3A1.22.0#builtin<compat/resolve>::version=1.22.0&hash=3388aa"],
             ["semver", "npm:5.7.1"],
             ["validate-npm-package-license", "npm:3.0.4"]
           ],
@@ -5458,10 +5458,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["resolve", [
-        ["patch:resolve@npm%3A1.21.0#builtin<compat/resolve>::version=1.21.0&hash=3388aa", {
-          "packageLocation": "./.yarn/cache/resolve-patch-cae7b9a1c8-1518f340d8.zip/node_modules/resolve/",
+        ["patch:resolve@npm%3A1.22.0#builtin<compat/resolve>::version=1.22.0&hash=3388aa", {
+          "packageLocation": "./.yarn/cache/resolve-patch-6f34a76161-b5540b19b9.zip/node_modules/resolve/",
           "packageDependencies": [
-            ["resolve", "patch:resolve@npm%3A1.21.0#builtin<compat/resolve>::version=1.21.0&hash=3388aa"],
+            ["resolve", "patch:resolve@npm%3A1.22.0#builtin<compat/resolve>::version=1.22.0&hash=3388aa"],
             ["is-core-module", "npm:2.8.1"],
             ["path-parse", "npm:1.0.7"],
             ["supports-preserve-symlinks-flag", "npm:1.0.0"]
