@@ -2,14 +2,11 @@
   "name": "type-config",
   "version": "1.0.0",
   "main": "index.js",
-  "workspaces": [
-    "packages/*"
-  ],
   "repository": "https://github.com/Saul-Mirone/type-config.git",
   "author": "Saul-Mirone <Saul.Mirone@gmail.com>",
   "license": "MIT",
   "private": true,
-  "devDependencies": {
-    "lerna": "4.0.0"
+  "dependencies": {
+    "prettier": "^2.7.1"
   }
 }
