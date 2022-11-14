@@ -24,6 +24,6 @@
   "dependencies": {
     "commander": "^9.0.0",
     "cross-spawn": "^7.0.0",
-    "inquirer": "^8.0.0"
+    "inquirer": "^9.0.0"
   }
 }
