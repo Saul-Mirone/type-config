@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "es6",
+    "module": "ESNext",
+    "target": "ES2015",
     "noEmitOnError": true,
 
     "declaration": true,
@@ -12,6 +12,6 @@
     "forceConsistentCasingInFileNames": true,
 
     "strict": true,
-    "jsx": "react"
+    "jsx": "react-jsx"
   }
 }
