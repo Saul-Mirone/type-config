@@ -6,7 +6,7 @@ importers:
     specifiers:
       prettier: ^2.7.1
     dependencies:
-      prettier: 2.7.1
+      prettier: 2.8.0
 
   packages/cli:
     specifiers:
@@ -252,8 +252,8 @@ packages:
     engines: {node: '>=8'}
     dev: false
 
-  /prettier/2.7.1:
-    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==}
+  /prettier/2.8.0:
+    resolution: {integrity: sha512-9Lmg8hTFZKG0Asr/kW9Bp8tJjRVluO8EJQVfY2T7FMw9T5jy4I/Uvx0Rca/XWf50QQ1/SS48+6IJWnrb+2yemA==}
     engines: {node: '>=10.13.0'}
     hasBin: true
     dev: false
