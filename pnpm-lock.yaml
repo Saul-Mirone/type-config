@@ -10,11 +10,11 @@ importers:
 
   packages/cli:
     specifiers:
-      commander: ^10.0.0
+      commander: ^11.0.0
       cross-spawn: ^7.0.0
       inquirer: ^9.0.0
     dependencies:
-      commander: 10.0.0
+      commander: 11.0.0
       cross-spawn: 7.0.3
       inquirer: 9.1.4
 
@@ -99,9 +99,9 @@ packages:
     engines: {node: '>=0.8'}
     dev: false
 
-  /commander/10.0.0:
-    resolution: {integrity: sha512-zS5PnTI22FIRM6ylNW8G4Ap0IEOyk62fhLSD0+uHRT9McRCLGpkVNvao4bjimpK/GShynyQkFFxHhwMcETmduA==}
-    engines: {node: '>=14'}
+  /commander/11.0.0:
+    resolution: {integrity: sha512-9HMlXtt/BNoYr8ooyjjNRdIilOTkVJXB+GhxMTtOKwk0R4j4lS4NpjuqmRxroBfnfTSHQIHQB7wryHhXarNjmQ==}
+    engines: {node: '>=16'}
     dev: false
 
   /cross-spawn/7.0.3:
