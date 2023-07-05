@@ -4,9 +4,9 @@ importers:
 
   .:
     specifiers:
-      prettier: ^2.7.1
+      prettier: ^3.0.0
     dependencies:
-      prettier: 2.8.0
+      prettier: 3.0.0
 
   packages/cli:
     specifiers:
@@ -252,9 +252,9 @@ packages:
     engines: {node: '>=8'}
     dev: false
 
-  /prettier/2.8.0:
-    resolution: {integrity: sha512-9Lmg8hTFZKG0Asr/kW9Bp8tJjRVluO8EJQVfY2T7FMw9T5jy4I/Uvx0Rca/XWf50QQ1/SS48+6IJWnrb+2yemA==}
-    engines: {node: '>=10.13.0'}
+  /prettier/3.0.0:
+    resolution: {integrity: sha512-zBf5eHpwHOGPC47h0zrPyNn+eAEIdEzfywMoYn2XPi0P44Zp0tSq64rq0xAREh4auw2cJZHo9QUob+NqCQky4g==}
+    engines: {node: '>=14'}
     hasBin: true
     dev: false
 

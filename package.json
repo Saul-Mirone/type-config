@@ -7,6 +7,6 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^3.0.0"
   }
 }
