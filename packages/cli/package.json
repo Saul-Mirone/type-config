@@ -22,8 +22,8 @@
   "author": "mirone",
   "license": "MIT",
   "dependencies": {
-    "commander": "^14.0.0",
+    "commander": "^15.0.0",
     "cross-spawn": "^7.0.0",
-    "inquirer": "^13.0.0"
+    "inquirer": "^14.0.0"
   }
 }
